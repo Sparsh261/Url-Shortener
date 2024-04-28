@@ -1,0 +1,21 @@
+body{
+    background-color:black;
+    min-height: 100vh;
+    color: white;
+}
+h1,p{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+.container{
+    background-color: grey;
+    padding: 50px;
+    border-radius: 20px;    
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 10%;
+}
